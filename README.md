@@ -45,7 +45,7 @@ This project serves as an educational tool for exploring **optimization techniqu
 ## Simulation Results
 - The project has been tested with various parameters, consistently achieving high success rates using the chosen **MPC** and **TSP** weights.
 <div align="center">
-  <video src="https://github.com/yourusername/Pac-Man-vs-MATLAB/raw/main/demo.mp4](https://github.com/ValentinaGiannotti/Pac-Man-/blob/main/pac-man-simulation.mp4" width="600" controls></video>
+  <video src="https://github.com/ValentinaGiannotti/Pac-Man-/blob/main/pac-man-simulation.mp4" width="600" controls></video>
 </div>
 
 
