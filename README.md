@@ -44,7 +44,7 @@ This project serves as an educational tool for exploring **optimization techniqu
 
 ## Simulation Results
 - The project has been tested with various parameters, consistently achieving high success rates using the chosen **MPC** and **TSP** weights.
-- 
+ 
 ![Pac-Man Simulation](https://github.com/ValentinaGiannotti/Pac-Man-/blob/main/pac-man-simulation.gif)
 
 
