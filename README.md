@@ -4,8 +4,6 @@
 - [Abstract](#abstract)
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Algorithm Overview](#algorithm-overview)
 - [Simulation Results](#simulation-results)
 - [Future Improvements](#future-improvements)
@@ -34,7 +32,7 @@ This project serves as an educational tool for exploring **optimization techniqu
 - **MATLAB Implementation**: The project is fully implemented in MATLAB, leveraging optimization toolboxes for decision-making.
 
 
-## Algorithms Used
+## Algorithm Overview
 ### Model Predictive Control (MPC)
 - MPC optimizes Pac-Man’s movement by maximizing the distance from the ghost while still targeting pills.
 - The controller applies an optimization function at each step, considering a finite prediction horizon.
@@ -50,7 +48,7 @@ This project serves as an educational tool for exploring **optimization techniqu
   - **α = 0.22, β = 0.11** provided optimal balancing between escaping and reward collection.
 - The simulation outputs graphical representations of Pac-Man’s path and decision-making process.
 
-## Future Enhancements
+## Future Improvements
 - Implementing additional ghosts with unique movement patterns.
 - Introducing dynamic difficulty adjustments.
 - Expanding the maze to larger, more complex layouts.
