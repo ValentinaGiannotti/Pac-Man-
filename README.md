@@ -44,9 +44,10 @@ This project serves as an educational tool for exploring **optimization techniqu
 
 ## Simulation Results
 - The project has been tested with various parameters, consistently achieving high success rates using the chosen **MPC** and **TSP** weights.
-- Example scenario:
-  - **α = 0.22, β = 0.11** provided optimal balancing between escaping and reward collection.
-- The simulation outputs graphical representations of Pac-Man’s path and decision-making process.
+<div align="center">
+  <video src="https://github.com/yourusername/Pac-Man-vs-MATLAB/raw/main/demo.mp4](https://github.com/ValentinaGiannotti/Pac-Man-/blob/main/pac-man-simulation.mp4" width="600" controls></video>
+</div>
+
 
 ## Future Improvements
 - Implementing additional ghosts with unique movement patterns.
